@@ -14,13 +14,13 @@ from utils.bert_utils import get_masked_word_predictions
 
 # Page configuration
 st.set_page_config(
-    page_title="P5 - Next Token Probability Lab",
+    page_title="NextMind AI",
     page_icon="🧠",
     layout="wide"
 )
 
 # Application heading
-st.title("🧠 Next-Token Probability Lab")
+st.title("🧠 NextMind AI")
 
 st.write(
     "Explore how GPT-2 predicts the next token "
