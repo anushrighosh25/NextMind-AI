@@ -94,3 +94,12 @@ streamlit run app.py
 ## Author
 
 Anushri Ghosh
+
+## Responsible AI Documentation
+
+This project includes documentation covering model transparency, limitations, safety and intellectual property.
+
+- [Model Card](MODEL_CARD.md)
+- [Licence and Intellectual Property Note](LICENCE_IP.md)
+
+These documents describe the pretrained models, experimental results, training data, licensing considerations and responsible use of NextMind AI.
